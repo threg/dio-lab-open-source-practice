@@ -18,5 +18,5 @@ Isso irá simular o processo completo de uma contribuição:
 
 | Nome                | Perfil do GitHub                               |
 | ------------------- | ---------------------------------------------- |
-| *Exemplo: Ada Lovelace* | *https://github.com/exemplo* |
+| *Talles* | *https://github.com/threg* |
 | **(Adicione seu nome e perfil na próxima linha)** | |
